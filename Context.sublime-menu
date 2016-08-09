@@ -1,13 +1,13 @@
 [
     {
-        "caption":"Lorem Ipsum...",
-        "mnemonic": "LI",
+        "caption":"Veggie Ipsum...",
+        "mnemonic": "VI",
         "children":
         [
-            {"command": "lorem_ipsum", "caption": "a bit", "args":{"qty":5}},
-            {"command": "lorem_ipsum", "caption": "some", "args":{"qty":15}},
-            {"command": "lorem_ipsum", "caption": "lots", "args":{"qty":30}},
-            {"command": "lorem_ipsum", "caption": "stick shake", "args":{"qty":200}}
-        ] 
+            {"command": "veggie_ipsum", "caption": "a bit", "args":{"qty":5}},
+            {"command": "veggie_ipsum", "caption": "some", "args":{"qty":15}},
+            {"command": "veggie_ipsum", "caption": "lots", "args":{"qty":30}},
+            {"command": "veggie_ipsum", "caption": "stick shake", "args":{"qty":200}}
+        ]
     }
 ]

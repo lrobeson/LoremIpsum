@@ -1,0 +1,26 @@
+[
+
+  {
+    "caption": "VeggieIpsum: (5) a nibble",
+    "command": "veggie_ipsum",
+    "args": {"qty": 5 }
+  },
+
+  {
+    "caption": "VeggieIpsum: (15) good snack",
+    "command": "veggie_ipsum",
+    "args": {"qty": 15 }
+  },
+
+  {
+    "caption": "VeggieIpsum: (30) whole meal",
+    "command": "veggie_ipsum",
+    "args": {"qty": 30 }
+  },
+
+  {
+    "caption": "VeggieIpsum: (200) total health nut",
+    "command": "veggie_ipsum",
+    "args": {"qty": 200 }
+  }
+]
